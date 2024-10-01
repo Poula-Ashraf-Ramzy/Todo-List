@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378472914103",
+    "project_id": "todoapp-1d258",
+    "storage_bucket": "todoapp-1d258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378472914103:android:ab64cbb4931e9f44768132",
+        "android_client_info": {
+          "package_name": "com.example.to_do_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChgn0jcpIsCJAe-2iuYEAZ7caxgT7Z8j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
